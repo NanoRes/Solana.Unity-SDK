@@ -18,8 +18,8 @@
   "documentationUrl": "https://solana.unity-sdk.gg/",
   "changelogUrl": "https://github.com/garbles-labs/Solana.Unity-SDK/releases",
   "author": {
-    "name" : "Magicblock",
-    "url" : "https://www.magicblock.gg/"
+    "name" : "NanoRes Studios",
+    "url" : "https://www.nanores.fun/"
   },
   "license": "MIT"
 }
